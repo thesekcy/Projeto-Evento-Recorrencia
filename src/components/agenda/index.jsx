@@ -23,6 +23,7 @@ import {
 function Agenda() {
   const [dayActive, setDayActive] = useState(0)
   const [accordionIndexActive, setAccordionIndexActive] = useState('')
+  const [accordionMarginBottom, setAccordionMarginBottom] = useState(0)
 
   const changeAccordionIndexActive = (id) => {
     if (accordionIndexActive === id) {
@@ -65,7 +66,7 @@ function Agenda() {
           ))}
         </DaysSelector>
 
-        <DaysContent>
+        <DaysContent style={{ marginBottom: `${accordionMarginBottom}px` }}>
           {AgendaJSON.data.map((day, dayIndex) => (
             <Day key={`daycontent-${dayIndex}`} active={dayActive === dayIndex}>
               <DayHeader>
@@ -83,8 +84,11 @@ function Agenda() {
                     {dayItem.speakers && (
                       <>
                         <Reveal
+                          setAccordionMarginBottom={setAccordionMarginBottom}
+                          dayIndex={dayIndex}
                           active={accordionIndexActive === `${dayIndex}-${dayItemIndex}`}
                         >
+                          {console.log('accordionMarginBottom: ', accordionMarginBottom)}
                           <DayTimelineItemSpeakers>
                             {dayItem.speakers.map((speaker, speakerIndex) => (
                               <>

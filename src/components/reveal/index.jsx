@@ -1,13 +1,21 @@
 import { useEffect, useRef } from 'react'
 import { Container } from './styles'
 
-function Reveal({ active, children }) {
+function Reveal({ setAccordionMarginBottom, active, children, dayIndex }) {
   const elementRef = useRef(null)
 
   useEffect(() => {
-    elementRef.current.style.height = active
-      ? `${elementRef.current.scrollHeight}px`
-      : `0px`
+    if (active) {
+      elementRef.current.style.height = `${elementRef.current.scrollHeight}px`
+      if (dayIndex != 1) {
+        setAccordionMarginBottom
+          ? setAccordionMarginBottom(elementRef.current.scrollHeight)
+          : ''
+      }
+    } else {
+      elementRef.current.style.height = `0px`
+      setAccordionMarginBottom ? setAccordionMarginBottom(0) : ''
+    }
   }, [active])
 
   return (

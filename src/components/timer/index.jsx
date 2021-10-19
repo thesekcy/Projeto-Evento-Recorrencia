@@ -29,7 +29,7 @@ function Timer() {
     <Container className={scrollPosition < 200 ? 'd-none' : ''}>
       <Row>
         <Title>Inscreva-se! O Evento começa em:</Title>
-        <Countdown date={`${year}-11-14T18:00:00`} />
+        <Countdown date={`${year}-10-25T14:00:00`} />
         <Button href={subscriptionUrl}>Inscreva-se gratuitamente</Button>
       </Row>
     </Container>
