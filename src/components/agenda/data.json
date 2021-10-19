@@ -1,0 +1,240 @@
+{
+  "data": [{
+      "name": "Segunda-feira",
+      "date": "25.10.2021",
+      "items": [{
+          "title": "14:00 - Abertura"
+        },
+        {
+          "title": "14:10 - Keynote Filipi Nobre",
+          "text": "",
+          "speakers": [{
+            "name": "Keynote Filipi Nobre",
+            "image": "/images/new_photos/Fillipi-Nobre.png",
+            "cargo": "Empresário, Business Hacker e Fundador do Mentalidade Empreendedora",
+            "logo": "/images/logos/Mentalidade Empreendedora 1.png"
+          }]
+        },
+        {
+          "title": "15:00 - Do tradicional à Recorrência: como grandes empresas aderiram ao modelo de assinaturas?",
+          "text": "",
+          "speakers": [{
+              "name": "Stephane Kaloudoff",
+              "image": "/images/new_photos/Stephane Kaloudoff.png",
+              "cargo": "CEO e Sommelier da Sociedade da Mesa",
+              "logo": "/images/logos/Sociedade da Mesa 1.png"
+            },
+            {
+              "name": "Gian Carllo",
+              "image": "/images/new_photos/Gian C. Macarrão.png",
+              "cargo": "Gerente Geral Unidas Livre",
+              "logo": "/images/logos/Unidas 1.png"
+            },
+            {
+              "name": "Daniel Arcoverde",
+              "image": "/images/new_photos/Daniel Arcoverde.png",
+              "cargo": "Co-fundador Netshow.me",
+              "logo": "/images/logos/Netshow.me 4.png"
+            },
+            {
+              "name": "Amanda Cassola",
+              "image": "/images/new_photos/Amanda Cassola.png",
+              "cargo": "Head of Enterprise Sales na Vindi",
+              "logo": "/images/logos/LOGO VINDI COLORIDO.png"
+            }
+          ]
+        },
+        {
+          "title": "15:50 -  Inovação na Educação: como desenvolver os empreendedores do futuro",
+          "text": "",
+          "speakers": [{
+            "name": "Alvaro Schocair",
+            "image": "/images/new_photos/Alvaro Schocair.png",
+            "cargo": "Fundador da Link School of Business e CEO da Quebec Impact Assets",
+            "logo": "/images/logos/Link School of Business 1.jpg"
+          }]
+        },
+        {
+          "title": "16:35 -  Dentro do Ringue Especial"
+        },
+        {
+          "title": "16:55 -  Encerramento do dia"
+        }
+      ]
+    },
+    {
+      "name": "Terça-feira",
+      "date": "26.10.2021",
+      "items": [{
+          "title": "14:00 - Abertura"
+        },
+        {
+          "title": "14:10 - Assinaturas por toda a parte? Recorrência fora do padrão",
+          "text": "",
+          "speakers": [{
+              "name": "Alexandre Lafer Frankel",
+              "image": "/images/new_photos/Alexandre Frankel.png",
+              "cargo": "CEO Housi",
+              "logo": "/images/logos/Housi 2.jpg"
+            },
+            {
+              "name": "Cadu Guerra",
+              "image": "/images/new_photos/Cadu Guerra.png",
+              "cargo": "CEO Allugator",
+              "logo": "/images/logos/Allugator 1.png"
+            },
+            {
+              "name": "Bruno Brigida",
+              "image": "/images/new_photos/Bruno Brigida.png",
+              "cargo": "CEO Clube da Preta",
+              "logo": "/images/logos/Clube da Preta 2.png"
+            },
+            {
+              "name": "Luiz Faray",
+              "image": "/images/new_photos/Luiz Faray.png",
+              "cargo": "Co-founder Cuida Digital e Innovation Leader IBM",
+              "logo": "/images/logos/IBM 1.png"
+            }
+          ]
+        },
+        {
+          "title": "15:00 - Keynote Rachel Maia - Como a liderança influencia a sustentabilidade do negócio",
+          "text": "",
+          "speakers": [{
+            "name": "Rachel Maia",
+            "image": "/images/new_photos/Rachel Maia.png",
+            "cargo": "CEO da RM Consulting",
+            "logo": "/images/logos/RM_Consulting.png"
+          }]
+        },
+        {
+          "title": "15:35- Dados da Recorrência: tudo o que você precisa saber (e aplicar no seu negócio)",
+          "text": "",
+          "speakers": [{
+              "name": "Daniel Silvestre",
+              "image": "/images/new_photos/Daniel Silvestre.png",
+              "cargo": "Diretor de Receita na Vindi",
+              "logo": "/images/logos/LOGO VINDI COLORIDO.png"
+            },
+            {
+              "name": "Oscar Pettezzoni",
+              "image": "/images/new_photos/Oscar Pettezzoni.png",
+              "cargo": "Diretor executivo de Visa Consulting & Analytics",
+              "logo": "/images/logos/logo-visa.png"
+            },
+            {
+              "name": "Pedro Quintanilha",
+              "image": "/images/new_photos/Pedro Quintanilha.png",
+              "cargo": "Empresário, Business Hacker e Fundador do Mentalidade Empreendedora",
+              "logo": "/images/logos/Mentalidade Empreendedora 1.png"
+            }
+          ]
+        },
+        {
+          "title": "16:20 - Mesa Redonda - Brasil Pet: como a recorrência apoia e sustenta o terceiro maior mercado do mundo?",
+          "text": "",
+          "speakers": [{
+              "name": "Giovanni Del Neri",
+              "image": "/images/new_photos/Giovanni Del Neri.png",
+              "cargo": "Sócio Recreio dos Bichos",
+              "logo": "/images/logos/Recreio dos Bichos 1.jpeg"
+            },
+            {
+              "name": "Leonardo Raphaelli",
+              "image": "/images/new_photos/",
+              "cargo": "Cofundador Amigoo Pet Assist",
+              "logo": "/images/logos/Amigoo Pet Assist 1.jpg"
+            },
+            {
+              "name": "Izabella Braga",
+              "image": "/images/new_photos/Izabella Braga.png",
+              "cargo": "Associada Fundadora e Gerente Administrativo da abtPet",
+              "logo": "/images/logos/abtPet 2.png"
+            },
+            {
+              "name": "Pedro Quintanilha",
+              "image": "/images/new_photos/Pedro Quintanilha.png",
+              "cargo": "Empresário, Business Hacker e Fundador do Mentalidade Empreendedora",
+              "logo": "/images/logos/Mentalidade Empreendedora 1.png"
+            }
+          ]
+        },
+        {
+          "title": "16:50 -  Encerramento do dia"
+        }
+      ]
+    },
+    {
+      "name": "Quarta-feira",
+      "date": "27.10.2021",
+      "items": [{
+          "title": "14:00 - Abertura"
+        },
+        {
+          "title": "14:10 - Desafios de retenção: como a experiência do cliente pode ser definitiva na recorrência",
+          "text": "",
+          "speakers": [{
+              "name": "Diego Azevedo",
+              "image": "/images/new_photos/Diego Azevedo.png",
+              "cargo": "Founder CS Academy",
+              "logo": "/images/logos/CS Academy 1.png"
+            },
+            {
+              "name": "Jessica Machado",
+              "image": "/images/new_photos/Jessica M. Bortolato.png",
+              "cargo": "Diretora de Vendas na Gupy",
+              "logo": "/images/logos/gupy-logo.png"
+            },
+            {
+              "name": "Camilla Ferreira",
+              "image": "/images/new_photos/Camilla Ferreira.png",
+              "cargo": "Chief Customer Officer na Vindi",
+              "logo": "/images/logos/LOGO VINDI COLORIDO.png"
+            }
+          ]
+        },
+        {
+          "title": "15:00 - Dentro do Ringue Especial"
+        },
+        {
+          "title": "15:20 - Open banking, PIX e Registro de recebíveis: transformação do mercado bancário e meios de pagamento",
+          "text": "",
+          "speakers": [{
+              "name": "Natália Tukoff",
+              "image": "/images/new_photos/Natália Tukoff.png",
+              "cargo": "Diretora Comercial e Marketing da Yapay Pagamentos",
+              "logo": "/images/logos/yapay 1.jpg"
+            },
+            {
+              "name": "Fernando Fontes",
+              "image": "/images/new_photos/Fernando Fontes.png",
+              "cargo": "Fundador e CEO CERC",
+              "logo": "/images/logos/CERC 1.png"
+            },
+            {
+              "name": "Manoel Alexandre Bueno e Silva",
+              "image": "/images/new_photos/Manoel Alexandre Bueno e Silva.png",
+              "cargo": "Head do Capco Digital São Paulo",
+              "logo": "/images/logos/Capco Digital 1.png"
+            },
+            {
+              "name": "Marina Coutinho",
+              "image": "/images/new_photos/Marina Coutinho.png",
+              "cargo": "Coordenadora de Sucesso do Cliente na Vindi",
+              "logo": "/images/logos/LOGO VINDI COLORIDO.png"
+            }
+          ]
+        },
+        {
+          "title": "16:00 - Keynote"
+        },
+        {
+          "title": "16:30 - Os impactos dos novos formatos de conteúdo na Recorrência"
+        },
+        {
+          "title": "17:00 -  Encerramento do dia + HH"
+        }
+      ]
+    }
+  ]
+}

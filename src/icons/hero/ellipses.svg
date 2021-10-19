@@ -1,0 +1,24 @@
+<svg width="142" height="142" viewBox="0 0 142 142" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="71" cy="71" r="100" fill="url(#ellipses0_linear)"/>
+<circle cx="71" cy="71" r="80" fill="url(#ellipses1_linear)"/>
+<circle cx="71" cy="71" r="60" fill="url(#ellipses2_linear)"/>
+<circle cx="71" cy="71" r="40" fill="url(#ellipses3_linear)"/>
+<defs>
+<linearGradient id="ellipses0_linear" x1="71" y1="-29" x2="71" y2="171" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2AB332"/>
+<stop offset="1" stop-color="#2A6B32"/>
+</linearGradient>
+<linearGradient id="ellipses1_linear" x1="71" y1="-9" x2="71" y2="151" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00146F"/>
+<stop offset="1" stop-color="#0B0040"/>
+</linearGradient>
+<linearGradient id="ellipses2_linear" x1="71" y1="11" x2="71" y2="131" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="ellipses3_linear" x1="71" y1="31" x2="71" y2="111" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C80050"/>
+<stop offset="1" stop-color="#9F0037"/>
+</linearGradient>
+</defs>
+</svg>

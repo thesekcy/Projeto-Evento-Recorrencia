@@ -1,0 +1,33 @@
+<svg width="92" height="92" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="92" height="92" fill="url(#paint0_linear)"/>
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="92" height="92">
+<rect width="92" height="92" fill="url(#paint1_linear)"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="15.2382" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 15.2382 -34.0298)" fill="#F5C913"/>
+<rect x="30.3319" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 30.3319 -34.0298)" fill="#F5C913"/>
+<rect x="45.4257" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 45.4257 -34.0298)" fill="#F5C913"/>
+<rect x="60.5194" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 60.5194 -34.0298)" fill="#F5C913"/>
+<rect x="75.6132" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 75.6132 -34.0298)" fill="#F5C913"/>
+<rect x="90.7069" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 90.7069 -34.0298)" fill="#F5C913"/>
+<rect x="105.801" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 105.801 -34.0298)" fill="#F5C913"/>
+<rect x="120.894" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 120.894 -34.0298)" fill="#F5C913"/>
+<rect x="135.988" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 135.988 -34.0298)" fill="#F5C913"/>
+<rect x="151.082" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 151.082 -34.0298)" fill="#F5C913"/>
+<rect x="166.176" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 166.176 -34.0298)" fill="#F5C913"/>
+<rect x="181.269" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 181.269 -34.0298)" fill="#F5C913"/>
+<rect x="196.363" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 196.363 -34.0298)" fill="#F5C913"/>
+<rect x="211.457" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 211.457 -34.0298)" fill="#F5C913"/>
+<rect x="226.551" y="-34.0298" width="5.75" height="220.777" transform="rotate(45 226.551 -34.0298)" fill="#F5C913"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="46" y1="0" x2="46" y2="92" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00146F"/>
+<stop offset="1" stop-color="#0B0040"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="46" y1="0" x2="46" y2="92" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00146F"/>
+<stop offset="1" stop-color="#0B0040"/>
+</linearGradient>
+</defs>
+</svg>

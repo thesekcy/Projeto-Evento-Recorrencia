@@ -1,0 +1,9 @@
+<svg width="113" height="128" viewBox="0 0 113 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M-3.56072e-06 128L113 64L7.62939e-06 -9.87877e-06L-3.56072e-06 128Z" fill="url(#triangle_pink_0_linear)"/>
+<defs>
+<linearGradient id="triangle_pink_0_linear" x1="56.5" y1="-4.93939e-06" x2="56.5" y2="128" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C80050"/>
+<stop offset="1" stop-color="#9F0037"/>
+</linearGradient>
+</defs>
+</svg>

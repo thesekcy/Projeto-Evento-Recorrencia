@@ -1,0 +1,29 @@
+<svg width="1440" height="96" viewBox="0 0 1440 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H250L0 96V0Z" fill="url(#footerbar0_linear)"/>
+<path d="M250 96L0 96L250 0L250 96Z" fill="url(#footerbar1_linear)"/>
+<rect x="250" width="940" height="96" fill="url(#footerbar2_linear)"/>
+<rect width="125" height="96" transform="matrix(-1 0 0 1 1440 0)" fill="url(#footerbar3_linear)"/>
+<rect width="125" height="96" transform="matrix(-1 0 0 1 1315 0)" fill="url(#footerbar4_linear)"/>
+<defs>
+<linearGradient id="footerbar0_linear" x1="125" y1="0" x2="125" y2="96" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="footerbar1_linear" x1="125" y1="96" x2="125" y2="-1.09278e-05" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00146F"/>
+<stop offset="1" stop-color="#0B0040"/>
+</linearGradient>
+<linearGradient id="footerbar2_linear" x1="720" y1="0" x2="720" y2="96" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2AB332"/>
+<stop offset="1" stop-color="#2A6B32"/>
+</linearGradient>
+<linearGradient id="footerbar3_linear" x1="62.5" y1="0" x2="62.5" y2="96" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C80050"/>
+<stop offset="1" stop-color="#9F0037"/>
+</linearGradient>
+<linearGradient id="footerbar4_linear" x1="62.5" y1="0" x2="62.5" y2="96" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+</defs>
+</svg>

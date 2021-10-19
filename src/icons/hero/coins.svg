@@ -1,0 +1,29 @@
+<svg width="109" height="218" viewBox="0 0 109 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M54.5 109.819C84.5995 109.819 109 85.2352 109 54.9095C109 24.5838 84.5995 0 54.5 0C24.4005 0 0 24.5838 0 54.9095C0 85.2352 24.4005 109.819 54.5 109.819Z" fill="url(#coins0_linear)"/>
+<path d="M28.2401 211.21C36.0291 215.534 44.9762 218 54.4955 218C64.0148 218 72.9664 215.534 80.7508 211.21H28.2401Z" fill="url(#coins1_linear)"/>
+<path d="M16.1048 182.693C25.9556 192.545 39.5216 198.635 54.5 198.635C69.4784 198.635 83.0444 192.545 92.8953 182.693H16.1048Z" fill="url(#coins2_linear)"/>
+<path d="M10.9545 151.413C20.9008 164.706 36.7012 173.304 54.4955 173.304C72.2897 173.304 88.0902 164.706 98.0364 151.413H10.9545Z" fill="url(#coins3_linear)"/>
+<path d="M6.93968 115.429C16.2728 132.186 34.0716 143.511 54.5 143.511C74.9285 143.511 92.7272 132.186 102.06 115.429H6.93968Z" fill="url(#coins4_linear)"/>
+<defs>
+<linearGradient id="coins0_linear" x1="54.5" y1="0" x2="54.5" y2="109.819" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="coins1_linear" x1="54.4955" y1="211.21" x2="54.4955" y2="218" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="coins2_linear" x1="54.5" y1="182.693" x2="54.5" y2="198.635" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="coins3_linear" x1="54.4955" y1="151.413" x2="54.4955" y2="173.304" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="coins4_linear" x1="54.5" y1="115.429" x2="54.5" y2="143.511" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+</defs>
+</svg>

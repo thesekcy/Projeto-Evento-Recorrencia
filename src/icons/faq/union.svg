@@ -1,0 +1,29 @@
+<svg width="92" height="92" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="92" height="92" fill="url(#union0_linear)"/>
+<circle cx="23" cy="23" r="23" fill="url(#union1_linear)"/>
+<circle cx="23" cy="69" r="23" fill="url(#union2_linear)"/>
+<circle cx="69" cy="23" r="23" fill="url(#union3_linear)"/>
+<circle cx="69" cy="69" r="23" fill="url(#union4_linear)"/>
+<defs>
+<linearGradient id="union0_linear" x1="46" y1="0" x2="46" y2="92" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C80050"/>
+<stop offset="1" stop-color="#9F0037"/>
+</linearGradient>
+<linearGradient id="union1_linear" x1="23" y1="0" x2="23" y2="46" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="union2_linear" x1="23" y1="46" x2="23" y2="92" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="union3_linear" x1="69" y1="0" x2="69" y2="46" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+<linearGradient id="union4_linear" x1="69" y1="46" x2="69" y2="92" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C913"/>
+<stop offset="1" stop-color="#F5A413"/>
+</linearGradient>
+</defs>
+</svg>

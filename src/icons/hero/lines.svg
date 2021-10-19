@@ -1,0 +1,33 @@
+<svg width="142" height="142" viewBox="0 0 142 142" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H142V142H0V0Z" fill="url(#lines0_linear)"/>
+<mask id="lines0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="142" height="142">
+<rect width="142" height="142" fill="url(#lines1_linear)"/>
+</mask>
+<g mask="url(#lines0)">
+<rect x="23.5197" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 23.5197 -52.5241)" fill="#F5C913"/>
+<rect x="46.8166" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 46.8166 -52.5241)" fill="#F5C913"/>
+<rect x="70.1135" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 70.1135 -52.5241)" fill="#F5C913"/>
+<rect x="93.4103" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 93.4103 -52.5241)" fill="#F5C913"/>
+<rect x="116.707" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 116.707 -52.5241)" fill="#F5C913"/>
+<rect x="140.004" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 140.004 -52.5241)" fill="#F5C913"/>
+<rect x="163.301" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 163.301 -52.5241)" fill="#F5C913"/>
+<rect x="186.598" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 186.598 -52.5241)" fill="#F5C913"/>
+<rect x="209.895" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 209.895 -52.5241)" fill="#F5C913"/>
+<rect x="233.192" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 233.192 -52.5241)" fill="#F5C913"/>
+<rect x="256.488" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 256.488 -52.5241)" fill="#F5C913"/>
+<rect x="279.785" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 279.785 -52.5241)" fill="#F5C913"/>
+<rect x="303.082" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 303.082 -52.5241)" fill="#F5C913"/>
+<rect x="326.379" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 326.379 -52.5241)" fill="#F5C913"/>
+<rect x="349.676" y="-52.5241" width="8.875" height="340.765" transform="rotate(45 349.676 -52.5241)" fill="#F5C913"/>
+</g>
+<defs>
+<linearGradient id="lines0_linear" x1="71" y1="0" x2="71" y2="142" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00146F"/>
+<stop offset="1" stop-color="#0B0040"/>
+</linearGradient>
+<linearGradient id="lines1_linear" x1="71" y1="0" x2="71" y2="142" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00146F"/>
+<stop offset="1" stop-color="#0B0040"/>
+</linearGradient>
+</defs>
+</svg>
