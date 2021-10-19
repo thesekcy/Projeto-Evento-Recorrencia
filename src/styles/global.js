@@ -261,8 +261,7 @@ color: #F5C913;
    -webkit-animation-delay: 3.5s;
    -o-animation-delay: 3.5s;
     animation-delay: 3.5s;
-    transform: translateX(-100%);
-
+    transform: translateX(-5000px) !important;
 }
 
 `
